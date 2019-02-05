@@ -1,5 +1,5 @@
 ch = input("Enter a character: ")
-if(ch=='A,E,I,O,U'):
-    print(ch, "is a Vowel")
+if(ch=='a','e','i','o','u'):
+    print(ch, "Vowel")
 else:
-    print(ch, "is a Consonant")
+    print(ch, "Consonant")
